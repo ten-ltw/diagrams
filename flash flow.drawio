@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T00:34:16.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ygn0Vh-3snV382iqaSM_" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T23:38:20.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HZthC5e8qHbv1dkWx58L" version="16.6.3" type="github">
   <diagram id="GxBTdln_U4BqLKOV0L5_" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="r8D3JHcTatnKne28WLY3-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="r8D3JHcTatnKne28WLY3-13" vertex="1">
           <mxGeometry y="156" width="367" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="r8D3JHcTatnKne28WLY3-16" value="+ getTaskObservable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r8D3JHcTatnKne28WLY3-13" vertex="1">
+        <mxCell id="r8D3JHcTatnKne28WLY3-16" value="+ getFlashStatusObservable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r8D3JHcTatnKne28WLY3-13" vertex="1">
           <mxGeometry y="164" width="367" height="26" as="geometry" />
         </mxCell>
         <mxCell id="U06hc8JL7uiyJ1hZjo2l-1" value="+ startFlash" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r8D3JHcTatnKne28WLY3-13">
