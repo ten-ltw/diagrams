@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T14:42:28.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="knTAEBTRlJdKHm1VoXkd" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T14:50:27.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="lucZnbi397qWPQOqLp4U" version="16.6.4" type="github">
   <diagram id="-cyDRBwP1vhpDihsnvPP" name="Page-1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HHEBz9SGS_DQccH___nx-1" value="broadcast-subscriber.service" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="260" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="HHEBz9SGS_DQccH___nx-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HHEBz9SGS_DQccH___nx-1">
+        <mxCell id="HHEBz9SGS_DQccH___nx-2" value="+ taskStatusRepalySubject" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HHEBz9SGS_DQccH___nx-1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HHEBz9SGS_DQccH___nx-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="HHEBz9SGS_DQccH___nx-1">
           <mxGeometry y="52" width="260" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="HHEBz9SGS_DQccH___nx-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HHEBz9SGS_DQccH___nx-1">
+        <mxCell id="HHEBz9SGS_DQccH___nx-4" value="+ getTaskStatusObservable()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HHEBz9SGS_DQccH___nx-1">
           <mxGeometry y="60" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HHEBz9SGS_DQccH___nx-5" value="download.service" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
