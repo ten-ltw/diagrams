@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T05:08:23.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="hLqlkFc5B_6m_eLTb5WT" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T05:09:34.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="xypK426Jgo9Sz3S1z88A" version="17.1.3" type="github">
   <diagram id="lT5mPGsHdPi-lIUCmYCX" name="Page-1">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="OIx4rU_GbDhWFo7Ky78G-15" value="Linux" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OIx4rU_GbDhWFo7Ky78G-3">
           <mxGeometry x="30" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIx4rU_GbDhWFo7Ky78G-21" value="OMV" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OIx4rU_GbDhWFo7Ky78G-3">
+          <mxGeometry x="30" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OIx4rU_GbDhWFo7Ky78G-4" value="disk 2" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="200" height="200" as="geometry" />
@@ -67,6 +70,19 @@
         </mxCell>
         <mxCell id="OIx4rU_GbDhWFo7Ky78G-20" value="四个系统，额外挂盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OIx4rU_GbDhWFo7Ky78G-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OIx4rU_GbDhWFo7Ky78G-7" target="OIx4rU_GbDhWFo7Ky78G-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="340" />
+              <mxPoint x="680" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIx4rU_GbDhWFo7Ky78G-23" value="disk3,4 直通做镜像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
